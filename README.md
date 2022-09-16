@@ -19,3 +19,5 @@ Manual: [please click this link](https://github.com/nomahi/MVPBT/raw/main/MVPBT_
 ## Reference
 
 Noma, H. (2020). Discussion of “Testing small study effects in multivariate meta-analysis” by Chuan Hong, Georgia Salanti, Sally Morton, Richard Riley, Haitao Chu, Stephen E. Kimmel, and Yong Chen. Biometrics 76: 1255-1259. (https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13343)
+
+Noma, H. (2022). MVPBT: R package for publication bias tests in meta-analysis of diagnostic accuracy studies. arXiv:2209.07270. (https://arxiv.org/abs/2209.07270)
